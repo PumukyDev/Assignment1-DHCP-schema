@@ -1,4 +1,4 @@
-EXERCISE TITTLE 
+# EXERCISE TITLE 
 
 Based on the following premises, create the (server1/client/server2) schema for DHCP service requests: 
 
